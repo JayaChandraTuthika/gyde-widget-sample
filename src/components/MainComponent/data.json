@@ -1,0 +1,85 @@
+{
+  "answerArray": [
+    {
+      "type": "walkthrough",
+      "title": "My Profile"
+    },
+    {
+      "type": "walkthrough",
+      "title": "Analytics"
+    },
+    {
+      "type": "walkthrough",
+      "title": "General"
+    },
+    {
+      "type": "walkthrough",
+      "title": "Overview"
+    },
+    {
+      "type": "walkthrough",
+      "title": "Manage Help Articles"
+    },
+    {
+      "type": "walkthrough",
+      "title": "Settings"
+    },
+    {
+      "type": "walkthrough",
+      "title": "Integration"
+    },
+    {
+      "type": "helparticles",
+      "title": "Manage Help Articles"
+    },
+    {
+      "type": "helparticles",
+      "title": "Manage Walkthroughs"
+    },
+    {
+      "type": "helparticles",
+      "title": "Integration"
+    },
+    {
+      "type": "helparticles",
+      "title": "Billing"
+    },
+    {
+      "type": "helparticles",
+      "title": "My Profile"
+    },
+    {
+      "type": "helparticles",
+      "title": "Settings"
+    },
+    {
+      "type": "helparticles",
+      "title": "Analytics"
+    },
+    {
+      "type": "helparticles",
+      "title": "Overview"
+    },
+    {
+      "type": "watsnew",
+
+      "question": "How to edit the Help article?"
+    },
+    {
+      "type": "watsnew",
+      "question": "How can I rename Gyde?"
+    },
+    {
+      "type": "watsnew",
+      "question": "How can I activate the product once bought?"
+    },
+    {
+      "type": "watsnew",
+      "question": "How can I rename Gyde?"
+    },
+    {
+      "type": "watsnew",
+      "question": "What is Overview tab"
+    }
+  ]
+}
